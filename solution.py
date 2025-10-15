@@ -1,8 +1,3 @@
-"""
-Project 7
-CSE 331 S23 (Onsay)
-solution.py
-"""
 import math
 import queue
 from typing import TypeVar, Generator, List, Tuple, Optional
