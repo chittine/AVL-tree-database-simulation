@@ -1,6 +1,5 @@
 # AVL-tree-database-simulation
 
-# AVL Tree Database Simulation (CSE 331 Project)
 
 This project implements an **AVL Tree** — a self-balancing binary search tree — and uses it as the backbone for a simple **table-based database system**. The implementation supports insertion, removal, balancing (via rotations), and several traversal methods, with a visualizer that outputs the tree as an SVG.
 
